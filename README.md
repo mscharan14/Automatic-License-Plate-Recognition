@@ -1,5 +1,3 @@
-<h1 align="center">Mosaic-PS2</h1>
-<p align="center">
 <h2 align = "center">Automatic License Plate Recognition</h2>
 <img width = 1000 height = 300 src = "imgs/plate.jpeg">
 </p>
